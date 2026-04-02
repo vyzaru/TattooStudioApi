@@ -1,0 +1,94 @@
+## .NET Core
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.pidb
+*.log
+*.psess
+*.vsp
+*.ncrunchsolution
+*.*sln.docstates
+.vs/
+.vscode/
+
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+
+## Docker
+*.dockerignore
+.env
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Rider
+.idea/
+*.sln.iml
+
+## Code Coverage
+*.coverage
+*.coveragexml
+*.dotCover
+*.TestResults.xml
+*.trx
+*.VisualState.xml
+
+## NuGet
+*.nupkg
+*.snupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## dotenv
+.env
+.env.*
+!.env.example
+
+## Database
+*.mdf
+*.ldf
+*.ndf
+*.mds
+
+## Misc
+*.DS_Store
+Thumbs.db
+*.dbmdl
+*.dbproj.schemaview
+
+## Test
+Tests/
+*.Tests/
+*.Test/
+*.UnitTests/
+*.IntegrationTests/
+*.TestResults/
+*.coverage
+
+## Publish
+/publish/
+*.pubxml
+*.pubxml.user
+
+## Logs
+logs/
+*.log
+nlog.*.log
+serilog.*.log

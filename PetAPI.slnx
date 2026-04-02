@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Tests/">
+    <Project Path="Tests/PetAPI.Tests.Unit/PetAPI.Tests.Unit.csproj" />
+  </Folder>
+  <Project Path="PetAPI.csproj" />
+</Solution>
